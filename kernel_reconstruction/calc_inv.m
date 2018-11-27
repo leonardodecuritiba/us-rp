@@ -1,0 +1,1 @@
+reconstructions.inv.image = calc_images(matrix, data.G, 'inverse', flags.calc_svd);
